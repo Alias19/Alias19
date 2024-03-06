@@ -1,4 +1,4 @@
-<h1>Hello I'm Alias, an <a href="https://www.linkedin.com/in/alias-santiago-643bb92b3/"> aspiring IT Professional</a>☺</h1>
+<h1>Hello I'm Alias, an inspiring IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
