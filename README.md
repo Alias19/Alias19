@@ -1,4 +1,4 @@
-<h1>Hello I'm Alias, an inspiring IT Professional
+<h1>Hello I'm Alias, an aspiring IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
